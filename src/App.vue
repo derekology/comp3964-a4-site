@@ -2,22 +2,22 @@
   <div class="max-w-3xl mx-auto p-6 font-sans text-gray-800">
     <h1 class="text-5xl tracking-widest font-semibold mb-2 uppercase pb-3">Derek Woo</h1>
     <p class="text-md mb-6">
-      Software developer and marketer with experience building technical systems across software, automation,
+      Cloud developer and marketer with experience building technical systems across software, automation,
       and business operations.
-      Focused on backend engineering, cloud development, and data pipelines.
+      Focused on backend engineering, AWS development, and data pipelines.
       Proven ability to scope and translate business initiatives to deliver impactful technical solutions.
     </p>
 
     <ResumeSection title="Core Competencies">
       <p>
+        <strong>Cloud & Infrastructure:</strong> Deployments on AWS (EC2, EKS, Lambda); Docker & Kubernetes; Ansible;
+        Jenkins<br>
         <strong>Backend & APIs:</strong> RESTful/serverless services (Python/Flask, TypeScript/Node, Express, GraphQL,
         RabbitMQ)<br>
         <strong>Data:</strong> ETL automation (Kafka, Cassandra, Pandas); DB dev (ClickHouse, PostgreSQL, SQL Server,
         SQLAlchemy)<br>
         <strong>Monitoring & Analytics:</strong> Observability pipelines and dashboards (Prometheus, Grafana, Superset,
         K6)<br>
-        <strong>Cloud & Infrastructure:</strong> Deployments on AWS (EC2, EKS, Lambda); Docker & Kubernetes; Ansible;
-        Jenkins<br>
         <strong>Frontend & Applications:</strong> Interactive web and desktop apps (TypeScript/JavaScript, React, Vue,
         Python, PyQT)<br>
         <strong>Other:</strong> General automation (Python/Bash scripts); Azure AI Engineer & Fundamentals Certificates;
